@@ -1,0 +1,289 @@
+bingbot
+bingpreview
+MSIECrawler
+msnbot
+msnbot-media
+AdIdxBot
+NOT Googlebot
+Googlebot
+Google Web Preview
+google-sitemaps
+AdsBot-Google
+AdsBot-Google
+Mediapartners-Google
+Feedfetcher-Google
+Google-Adwords-Instant
+Firefox1.5
+Yahoo! Slurp
+Baiduspider
+Baiduspider-image
+baidu
+YandexBot
+YandexImages
+YandexMetrika
+YandexMobileBot
+yandex
+electricmonk
+spbot
+SeznamBot
+msie8
+AhrefsBot
+007ac9 Crawler
+2345Explorer
+360Spider
+A Simple Crawler
+Abrave
+acapbot
+Accoona-AI-Agent
+AdnormCrawlerCatchBot
+aiHitBot
+aipbot
+Apache-HttpClient
+Apexoo Spider
+Applebot
+archive.org_bot
+Babya Discoverer
+BDCbot
+BinGet
+bl.uk_lddc_bot
+BLEXBot
+boitho.com-dc
+BusinessBot:
+CatchBot
+CBNutch
+CCBot
+Cliqzbot
+CMS Crawler
+ConveraCrawler
+cosmos
+crawlNutch
+crawler4j
+CRAZYWEBCRAWLER
+CSE HTML Validator
+C-T bot
+CurlPHP
+Dalvik
+DataCrawler
+Deepnet Explorer
+DeuSu
+Digincore
+Discordbot
+DoCoMo
+Domain Re-Animator Bot
+DomainCrawler
+DomainMacroCrawler
+DomainSONOCrawler
+DomainStatsBot
+DotBot
+DuckDuckGo-Favicons-Bot
+ELinks
+EmailMarketingRobot
+EmeraldShield.com WebBot
+envolk[ITS]spider
+EsperanzaBot
+Exabot
+facebookexternalhit
+fast_enterprise_crawler
+FAST-WebCrawler
+Feosey Mohk Crawler
+findlinks
+Findxbot
+FirePHP
+FlippyBearBot
+FreeWebMonitoring SiteChecker
+fujilabol
+FurlBot
+Gaisbot
+Gallent Spider
+GarlikCrawler
+GetintentCrawler
+Gigabot
+gipo-crawlerNutch
+Girafabot
+Gluten Free Crawler
+gocrawl
+GrapeshotCrawler
+GSiteCrawler
+GurujiBot
+HaosouSpider
+holmes
+HTTP_Request2
+HubSpot Webcrawler
+HyperCrawl
+ICC-Crawler
+iconoclast
+IDGCrawlerNutch
+idmarch Automatic.beta
+Incutio XML
+InfluenceBot
+IRLbot
+IssueCrawler
+istellabot
+James BOT
+Jigsaw
+JobFeed
+KomodiaBot
+Konqueror
+linkapediabot
+metager-linkchecker
+linkchecker
+LinkCheck
+linkdexbot
+LinkedInBot
+LinkpadBot
+Links
+LinksManager.com_bot
+LWP::Simple
+Mail.RU_Bot
+meanpathbot
+Mediatoolkitbot
+MegaIndex.ru
+merzscope
+mfibot
+microsoft.*discovery
+missigua_locator
+MixrankBot
+MJ12bot
+MojeekBot
+Mojolicious
+MXTNutch
+My Nutch Spider
+myseNutch
+NerdyBot
+netEstate NE Crawler
+NetResearchServer
+NRLCorpusBuilderNutch
+nutch-1.4
+nutch-1.8
+NutchCVS
+o.uk robot
+oBot
+ocrawler
+ODP link checker
+Offline Explorer
+OmniExplorer_Bot
+OrangeBot
+PageBitesHyperBot
+pdffillerbot
+PhantomJS
+PHP5.2.8
+Ploetz + Zeller
+Plukkie
+Princetonbot
+PrivacyAwareBot
+proximic
+psbot
+python_wk_crawler
+Python-urllib
+QCrawl
+ResearchBot
+roboto
+rogerbot
+RSSingBot
+RukiCrawler
+SafeDNS search bot
+SafeDNSBot
+SafeSearch microdata crawler
+safesearch
+SBL-BOT
+Screaming Frog SEO Spider
+ScreenerBot Crawler Beta
+Searchie
+Seekmo
+semanticbot
+SemrushBot
+seo-audit-check-bot
+Seobility
+SEOkicks-Robot
+SEOlyticsCrawler
+SEOstats
+SeosysNutch
+Seoterritory.com bot
+Shim-Crawler
+SiteExplorer
+siteexplorer.info
+Slackbot-LinkExpanding
+SmabblerBot
+Sogou web spider
+special_archiver
+Spiderbot
+ssearch_bot
+SurdotlyBot
+SurveyBot
+taiilNutch
+tbot-nutch
+TeeRaidBot
+TelegramBot
+TestNutch
+Test Spider
+TestCrawler
+TurnitinBot
+TurnitinBot
+TweetmemeBot
+UCYNutch
+Uptimebot
+URL Checker
+UXCrawlerBot
+Validator.nu
+vBSEO
+vBulletin via PHP
+vebidoobot
+vizNutch
+VoilaBot
+VORTEX
+voyager
+W3C_Validator
+W3C-checklink
+WBSearchBot
+WeSEE:AdsPageBot
+WeSEE:AdsPictureBot
+WeSEE_Bot
+Wget
+Who.is Bot
+wonderbot
+woobot
+Wotbox
+Xaldon WebSpider
+Xenu Link Sleuth
+xenu_link_sleuth
+XML Sitemaps Generator
+XoviBot
+yacybot
+Yahoo Link Preview
+YisouSpider
+yoozBot
+zspider
+ZumBot
+nbot
+ng1.
+ng2.
+libwww-perl
+CFNetwork
+urllib
+javabee
+projectwf-java-test-crawler
+java
+loocalcrawlernutch
+nutchosu-vlib
+nutch
+perlcrawler
+perl
+robot
+blog
+checker
+crawl
+discover
+feed
+fetcher
+hunter
+link
+scanner
+seek
+sitemap
+spider
+sucker
+validator
+curl
+php
+ruby
+no_user_agent

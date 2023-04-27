@@ -1,0 +1,9 @@
+Firefox
+MSIE
+Android
+Macintosh
+iPhone
+iPad
+Opera
+Chromium
+Chrome
